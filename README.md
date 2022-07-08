@@ -1,6 +1,6 @@
 # Graph-Mining-Fairness-Data
 
-
+Open-source datasets for paper "Fairness in Graph Mining: A Survey".
 
 
 ## Citation
